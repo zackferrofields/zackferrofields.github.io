@@ -1,5 +1,9 @@
-# Curricula Vitae, Zack Ferro-Fields
-**zackferrofields@gmail.com**
+# Curricula Vitae
+## Zack Ferro-Fields
+
+**zackferrofields@gmail.com**  
+[GitHub](https://github.com/zackferrofields)
+[Gists](https://gist.github.com/zackferrofields)
 
 ## Profile:
 As a software engineer, with over five years experience, developing applications for multiple environments including: web, native, hybrid and server. I’m currently pursuing my interests in isomorphic applications, functional reactive programming (FRP), Uni-directional data flow, and the latest ECMAScript standards `ES2015` & `ES2016`.

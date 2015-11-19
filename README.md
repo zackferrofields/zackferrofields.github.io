@@ -1,5 +1,4 @@
-# Curricula Vitae
-## Zack Ferro-Fields
+# Curricula Vitae, Zack Ferro-Fields
 **zackferrofields@gmail.com**
 
 ## Profile:

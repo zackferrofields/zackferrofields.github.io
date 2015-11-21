@@ -27,7 +27,7 @@ EXPERIENCE
 
 #### The BIO Agency website
 
-[thebioagency.com](http://thebioagency.com) is a responsive isomorphic application written in javascript. The stack, [docker-nginx-react](https://github.com/zackferrofields/docker-nginx-react), uses `node` & `koa` APIs and `nginx` proxy-pass to implement a "micro" cache defined by HTTP `Cahce-Control`. The content is hosted separately as an upstream in github `markdown` and compiled to html. 
+[thebioagency.com](http://thebioagency.com) is a responsive isomorphic application written in javascript. The stack, [docker-nginx-react](https://github.com/zackferrofields/docker-nginx-react), uses `node` & `koa` APIs and `nginx` proxy-pass, to implement a "micro" cache defined by HTTP `Cahce-Control`. The content is hosted separately as an upstream in github `markdown` and compiled to html. 
 
 > `node`, `react`, `jsx`, `es2015`, `es2016` `babel`, `koa`, `nginx`, `docker`, `docker-compose`
 

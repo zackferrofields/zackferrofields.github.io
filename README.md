@@ -20,7 +20,7 @@ EXPERIENCE
 
 ####CHEP Better Portfolio
 
-[myChep](https://youtu.be/DPBR-l0sYd8) is a mobile-first web-portal for CHEP customers to manage their CHEP accounts. The project was developed and delivered using an agile process, with a successful MVP (phase 1) delivered in September. The front-end application was on a MVC architecture and used an iterative `git-flow` process, to manage the life-cycle, continuously integrate and continuously deploy features to the client. This allowed the product to evolve over time and update with the latest ECMAScript standards (`es2015`).
+[myChep](https://youtu.be/DPBR-l0sYd8) is a mobile-first web-portal for CHEP customers to manage their accounts. The project was developed and delivered using an agile process, with a successful MVP (phase 1) delivered in September. The front-end application was built on an MVC architecture and used an iterative `git-flow` process, to manage the life-cycle, continuously integrate and continuously deploy features to the client. This allowed the product to evolve over time and update with the latest ECMAScript standards (`es2015`).
 
 > `bower`, `npm`, `grunt`, `webpack`, `babel` `es2015`, `scss`, `backbone`, `marionette`, `lodash`, `karma`, `jasmine`, `jenkins`, `maven`, `tomcat`
 
@@ -41,7 +41,7 @@ A `node` application using `express` to serve REST APIs for an Android/iPhone ap
 ### Senior Front-End Developer, AIS London – MAY 2013 - FEB 2014.
 
 **Dozenate:**
-An `Android` alarm clock with charity micro-payments. The application was build for Android 4.0+. The proof-of-concept involved building lots of custom UI components including an analogue clock with draggable dials for setting alarms. The app used “Just Test Giving” to send micro-payments to charities via SMS.
+An `Android` alarm clock with charity micro-payments. The application was build for Android 4.0+. The proof-of-concept involved building custom UI components including an analogue clock with draggable dials for setting alarms. The app used “Just Test Giving” to send micro-payments to charities via SMS.
 
 -
 

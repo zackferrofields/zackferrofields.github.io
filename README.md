@@ -37,14 +37,14 @@ A `node` application using `express` to serve REST APIs for an Android/iPhone ap
 
 > `node`, `espress`, `mongodb`, `mocha`, `sinon`, `superagent`
 
--
+---
 
 ### Senior Front-End Developer, AIS London – MAY 2013 - FEB 2014.
 
 **Dozenate:**
 An `Android` alarm clock with charity micro-payments. The application was build for Android 4.0+. The proof-of-concept involved building custom UI components including an analogue clock with draggable dials for setting alarms. The app used “Just Test Giving” to send micro-payments to charities via SMS.
 
--
+---
 
 ### Developer, Skinkers / IMI Mobile – DEC 2011 - MAY 2013.
 
@@ -57,7 +57,7 @@ A portal for Affiliate Window users to view stats and manage their accounts. The
 **Red Bull Racing Spy:**
 An iOS app built with Titanium (Appcelerator) that aggregated Red Bull Raging content/feeds (Tumblr, Twitter, Facebook)
 
--
+---
 
 ### Software Engineer, Grapple Mobile – JUN 2010 - DEC 2011.
 

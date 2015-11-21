@@ -1,4 +1,4 @@
-Curricula Vitae
+Curriculum Vitae
 ===============
 
 Zack Ferro-Fields

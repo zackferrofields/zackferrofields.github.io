@@ -11,7 +11,7 @@ Zack Ferro-Fields
 PROFILE
 -------
 
-As a software engineer, with over five years experience, developing applications for multiple environments including web, native, hybrid and server. I’m currently pursuing my interests in isomorphic applications, functional reactive programming (FRP), Uni-directional data flow, and the latest ECMAScript standards `es2015` & `es2016`.
+As a software engineer, with over five years experience, developing applications for multiple environments including web, native, hybrid and server. I’m currently pursuing my interests in isomorphic applications, functional reactive programming (FRP), unidirectional data flow, and the latest ECMAScript standards `es2015` & `es2016`.
 
 EXPERIENCE
 ----------
@@ -26,7 +26,7 @@ EXPERIENCE
 
 #### The BIO Agency website
 
-[thebioagency.com](http://thebioagency.com) is a responsive isomorhpic application written in javascript. The stack, [docker-nginx-react](https://github.com/zackferrofields/docker-nginx-react), uses `node` & `koa` APIs and `nginx` proxy-pass to implement a "micro" cache defined by HTTP `Cahce-Control`. The content is hosted separately as an upstream in github `markdown` and compiled to html. 
+[thebioagency.com](http://thebioagency.com) is a responsive isomorphic application written in javascript. The stack, [docker-nginx-react](https://github.com/zackferrofields/docker-nginx-react), uses `node` & `koa` APIs and `nginx` proxy-pass to implement a "micro" cache defined by HTTP `Cahce-Control`. The content is hosted separately as an upstream in github `markdown` and compiled to html. 
 
 > `node`, `react`, `jsx`, `es2015`, `es2016` `babel`, `koa`, `nginx`, `docker`, `docker-compose`
 

@@ -6,7 +6,8 @@ Zack Ferro-Fields
 
 **zackferrofields@gmail.com**  
 [GitHub](https://github.com/zackferrofields) 
-[Gists](https://gist.github.com/zackferrofields)
+[Gists](https://gist.github.com/zackferrofields) 
+[GitPage](http://zackferrofields.github.io)
 
 PROFILE
 -------

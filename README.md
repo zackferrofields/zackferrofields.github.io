@@ -66,5 +66,5 @@ EDUCATION
 --------------
 
 ### Southampton Solent University – 2007 - 2010.
-Upper Second BSC (Hons) Software Engineering
+#### Upper Second BSC (Hons) Software Engineering
 

@@ -32,7 +32,7 @@ EXPERIENCE
 
 #### Sky Sports Soccer Quiz
 
-A `node` application using `express` to serve REST APIs for an Android/iPhone app and store data in a `mongo` database. The application was unit-tested with `mocha` (and `chai` BDD assertion) using `sinon` spys and `superagent`.
+A `node` application using `express` to serve REST APIs for an Android/iPhone app and store data in a `mongo` database. The application was unit-tested with `mocha` (and `chai` BDD assertion) using `sinon` and `superagent`.
 
 > `node`, `espress`, `mongodb`, `mocha`, `sinon`, `superagent`
 

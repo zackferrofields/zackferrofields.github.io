@@ -24,8 +24,10 @@ EXPERIENCE
 web application for creating & managing financed insurance premiums.  
 Reactive event-driven   
 [Flux](https://facebook.github.io/flux/docs/overview.html) architecture  
-Immutable state
-Continuous Integration & Continuous Deployment
+Immutable state  
+Continuous Integration & Continuous Deployment  
+Functional programming paradigms
+Pure render
 
 > `es2015`, `esNext`, `jsx`, `babel`, `RxJs`, `cssnext`, `postcss`, `tape`, `istanbul`, `node`, `docker`, `travis`
 

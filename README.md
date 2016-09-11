@@ -12,28 +12,38 @@ Zack Ferro-Fields
 PROFILE
 -------
 
-As a software engineer, with over five years experience, developing applications for multiple environments including web, native, hybrid and server. I’m currently pursuing my interests in isomorphic applications, functional reactive programming (FRP), unidirectional data flow, and the latest ECMAScript standards `es2015` & `es2016`.
+As a software engineer, with over five years experience, developing applications for multiple environments including web, native, hybrid and server. I’m currently pursuing my interests in isomorphic applications, functional reactive programming, unidirectional data flow, and the latest ECMAScript standards `es2015` & `es2016`.
 
 EXPERIENCE
 ----------
 
 ### Lead Developer - Senior Software Engineer, The BIO Agency – FEB 2014 - PRESENT.
 
-#### Premium Credit PoP
+#### Premium Credit Point of Purchase (PCL PoP)
 
-web application for creating & managing financed insurance premiums.  
-Reactive event-driven   
-[Flux](https://facebook.github.io/flux/docs/overview.html) architecture  
-Immutable state  
-Continuous Integration & Continuous Deployment  
+PoP is a `reactive` `event-driven` web application with a [Flux](https://facebook.github.io/flux/docs/overview.html) architecture, for creating & managing financed insurance premiums.
+
+...
+Asynchronous data streams
+Immutable state
 Functional programming paradigms
 Pure render
+
+...
+The project repository was setup with [protected branches](https://help.github.com/articles/about-protected-branches/) and [required status checks](https://help.github.com/articles/about-required-status-checks/). [Pull-requests](https://help.github.com/articles/about-pull-requests/) would trigger
+[Travis CI](https://travis-ci.org/) to build, unit-test & report status before merging into develop.
+
+...
+[Docker Hub](https://hub.docker.com) builds where triggered by commits to `develop` & `release`. Tagged images, built & stored in Docker Hub, where "continuously delivered" via [Docker Cloud](https://cloud.docker.com/) to develop & QA environment.
+
+[CI & CD diagram](https://raw.githubusercontent.com/zackferrofields/zackferrofields.github.io/master/assets/CI%26CD.png)
+
 
 > `es2015`, `esNext`, `jsx`, `babel`, `RxJs`, `cssnext`, `postcss`, `tape`, `istanbul`, `node`, `docker`, `travis`
 
 #### CHEP Better Portfolio
 
-[myChep](https://youtu.be/DPBR-l0sYd8) is a mobile-first web-portal for CHEP customers to manage their accounts. The project was developed and delivered using an agile process, with a successful MVP (phase 1) delivered in September. The front-end application was built on an MVC architecture and used an iterative `git-flow` process, to manage the life-cycle, continuously integrate and continuously deploy features to the client. This allowed the product to evolve over time and update with the latest ECMAScript standards (`es2015`).
+[myCHEP](https://youtu.be/DPBR-l0sYd8) is a mobile-first web-portal for CHEP customers to manage their accounts. The project was developed and delivered using an agile process, with a successful MVP (phase 1) delivered in September. The front-end application was built on an MVC architecture and used an iterative `git-flow` process, to manage the life-cycle, continuously integrate and continuously deploy features to the client. This allowed the product to evolve over time and update with the latest ECMAScript standards (`es2015`).
 
 > `webpack`, `babel` `es2015`, `scss`, `backbone`, `marionette`, `lodash`, `karma`, `jasmine`, `jenkins`, `maven`, `tomcat`
 

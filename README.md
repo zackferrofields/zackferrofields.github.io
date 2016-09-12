@@ -12,7 +12,7 @@ Zack Ferro-Fields
 PROFILE
 -------
 
-As a software engineer, with over five years experience, developing applications for multiple environments including web, native, hybrid and server. I’m currently pursuing my interests in isomorphic applications, functional reactive programming, unidirectional data flow, and the latest ECMAScript standards `es2015` & `es2016`.
+As a software engineer, with over five years' experience, developing applications for multiple environments including web, native, hybrid and server. I’m currently pursuing my interests in isomorphic applications, functional reactive programming, unidirectional data flow, and the latest ECMAScript standards `es2015` & `es2016`.
 
 EXPERIENCE
 ----------

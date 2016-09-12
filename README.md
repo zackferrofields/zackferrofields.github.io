@@ -19,24 +19,10 @@ EXPERIENCE
 
 ### Lead Developer - Senior Software Engineer, The BIO Agency – FEB 2014 - PRESENT.
 
-#### Premium Credit Point of Purchase (PCL PoP)
+#### Premium Credit Point of Purchase (PoP)
 
-PoP is a `reactive` `event-driven` web application with a [Flux](https://facebook.github.io/flux/docs/overview.html) architecture, for creating & managing financed insurance premiums.
-
-...
-Asynchronous data streams
-Immutable state
-Functional programming paradigms
-Pure render
-
-...
-The project repository was setup with [protected branches](https://help.github.com/articles/about-protected-branches/) and [required status checks](https://help.github.com/articles/about-required-status-checks/). [Pull-requests](https://help.github.com/articles/about-pull-requests/) would trigger
-[Travis CI](https://travis-ci.org/) to build, unit-test & report status before merging into develop.
-
-...
-[Docker Hub](https://hub.docker.com) builds where triggered by commits to `develop` & `release`. Tagged images, built & stored in Docker Hub, where "continuously delivered" via [Docker Cloud](https://cloud.docker.com/) to develop & QA environment.
-
-[CI & CD diagram](https://raw.githubusercontent.com/zackferrofields/zackferrofields.github.io/master/assets/CI%26CD.png)
+PoP is a `reactive` `event-driven` web application with a [Flux](https://facebook.github.io/flux/docs/overview.html) architecture, for creating & managing financed insurance premiums. The application was composed of asynchronous data streams using functional programming paradigms such as pure functions, function composition, higher order functions, immutable state, etc. The project repository was setup with [protected branches](https://help.github.com/articles/about-protected-branches/) and [required status checks](https://help.github.com/articles/about-required-status-checks/). [Pull-requests](https://help.github.com/articles/about-pull-requests/) would trigger
+[Travis CI](https://travis-ci.org/) to build, unit-test & report status before merging into develop. Commits to `develop` & `release`, triggered [Docker Hub](https://hub.docker.com) automated builds to generated new tagged images, that where "continuously delivered" via [Docker Cloud](https://cloud.docker.com/) to develop & QA environment ([diagram](https://raw.githubusercontent.com/zackferrofields/zackferrofields.github.io/master/assets/CI%26CD.png))
 
 
 > `es2015`, `esNext`, `jsx`, `babel`, `RxJs`, `cssnext`, `postcss`, `tape`, `istanbul`, `node`, `docker`, `travis`

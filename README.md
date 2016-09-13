@@ -21,15 +21,13 @@ EXPERIENCE
 
 #### Premium Credit Point of Purchase (PoP)
 
-PoP is a `reactive` `event-driven` web application with a [Flux](https://facebook.github.io/flux/docs/overview.html) architecture, for creating & managing financed insurance premiums. The application was composed of asynchronous data streams using functional programming paradigms such as pure functions, function composition, higher order functions, immutable state, etc. The project repository was setup with [protected branches](https://help.github.com/articles/about-protected-branches/) and [required status checks](https://help.github.com/articles/about-required-status-checks/). [Pull-requests](https://help.github.com/articles/about-pull-requests/) would trigger
-[Travis CI](https://travis-ci.org/) to build, unit-test & report status before merging into develop. Commits to `develop` & `release`, triggered [Docker Hub](https://hub.docker.com) automated builds to generated new tagged images, that where "continuously delivered" via [Docker Cloud](https://cloud.docker.com/) to the develop & QA environment ([diagram](https://raw.githubusercontent.com/zackferrofields/zackferrofields.github.io/master/assets/CI%26CD.png))
-
+PoP is a `reactive` `event-driven` web application with a [Flux](https://facebook.github.io/flux/docs/overview.html) architecture, for creating & managing financed insurance premiums. The application was composed of asynchronous data streams using functional programming paradigms such as pure functions, function composition, higher order functions, immutable state, etc. The application was continuous integration & deployed with GitHub, Travis CI and Docker Cloud.
 
 > `es2015`, `esNext`, `jsx`, `babel`, `RxJs`, `cssnext`, `postcss`, `tape`, `istanbul`, `node`, `docker`, `travis`
 
 #### CHEP Better Portfolio
 
-[myCHEP](https://youtu.be/DPBR-l0sYd8) is a mobile-first web-portal for CHEP customers to manage their accounts. The project was developed and delivered using an agile process, with a successful MVP (phase 1) delivered in September. The front-end application was built on an MVC architecture and used an iterative `git-flow` process, to manage the life-cycle, continuously integrate and continuously deploy features to the client. This allowed the product to evolve over time and update with the latest ECMAScript standards (`es2015`).
+[myCHEP](https://youtu.be/DPBR-l0sYd8) is a suite of mobile-first Backbone/Marionette applications. The project used Bower to manager 3rd party library dependencies (Marionette, Zepto, Lodash, Polyglot). Grunt for automated build processes (bundling modules, compiling SCSS, minification, concatenation, running unit-test, code-coverage, etc) and continuous-integration with Jenkins and Maven.
 
 > `webpack`, `babel` `es2015`, `scss`, `backbone`, `marionette`, `lodash`, `karma`, `jasmine`, `jenkins`, `maven`, `tomcat`
 

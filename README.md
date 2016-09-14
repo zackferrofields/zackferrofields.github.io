@@ -33,7 +33,7 @@ PoP is a `reactive` `event-driven` web application with a [Flux](https://faceboo
 
 #### The BIO Agency website
 
-[thebioagency.com](http://thebioagency.com) is a responsive isomorphic application written in javascript. The stack, [docker-nginx-react](https://github.com/zackferrofields/docker-nginx-react), uses a `node` server with `koa` APIs and an `nginx` proxy, to implement a "micro" cache with HTTP `Cahce-Control`. The content was hosted on a separate upstream in github as `markdown` and compiled to html.
+[thebioagency.com](http://thebioagency.com) is a responsive isomorphic application written in javascript. The stack, [docker-nginx-react](https://github.com/zackferrofields/docker-nginx-react), uses a `node` server with `koa` APIs and an `nginx` proxy, to implement a "micro" cache with HTTP `Cahce-Control`. The content was hosted on a separate upstream in GitHub  as `markdown` and compiled to html.
 
 > `node`, `react`, `jsx`, `es2015`, `babel`, `koa`, `nginx`, `docker`
 

@@ -12,7 +12,7 @@ Zack Ferro-Fields
 PROFILE
 -------
 
-As a software engineer, with over five years' experience, developing applications for multiple environments including web, native, hybrid and server. I’m currently pursuing my interests in isomorphic applications, functional reactive programming, unidirectional data flow, and the latest ECMAScript standards `es2015` & `es2016`.
+Experienced software developer, building applications for multiple environments including web, native, hybrid and server. I’m currently pursuing my interests in isomorphic applications, functional reactive programming, unidirectional data flow, and the latest ECMAScript standards `es2015` & `es2016`.
 
 EXPERIENCE
 ----------
@@ -48,7 +48,7 @@ A `node` application using `express` to serve REST APIs for an Android/iPhone ap
 ### Senior Front-End Developer, AIS London – MAY 2013 - FEB 2014.
 
 **Dozenate:**
-An `Android` alarm clock with charity micro-payments. The application was build for Android 4.0+. The proof-of-concept involved building custom UI components including an analogue clock with draggable dials for setting alarms. The app used “Just Test Giving” to send micro-payments to charities via SMS.
+An `Android` alarm clock with charity micro-payments. The application was built for Android 4.0+. The proof-of-concept involved building custom UI components including an analogue clock with draggable dials for setting alarms. The app used “Just Test Giving” to send micro-payments to charities via SMS.
 
 ---
 

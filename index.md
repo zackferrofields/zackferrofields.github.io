@@ -19,36 +19,42 @@ EXPERIENCE
 
 ### Lead Developer - Senior Software Engineer, The BIO Agency – FEB 2014 - PRESENT.
 
-#### Premium Credit Point of Purchase (PoP)
+#### Haven - Stage Three
+
+Stage Three, a proof of concept for [Haven](https://www.haven.com/), is a single page web-application for booking holidays; built using a [Flux](https://facebook.github.io/flux/docs/overview.html) architecture implemented with `react`, `redux` & `sagas`. The application uses `ramda` to facilitate a functional programming style advocating purity, composition & immutability. The application was continuous deployed to `EC2` instances with `CodePipeline`, `CodeDeploy` and uses `lambCI` for continuous-integration via `GitHub` pull-requests and `Lambda` with "100% utilisation".
+
+> `ES2015`, `react`, `redux`, `redux-sagas`, `ramda`, `babel`, `cssnext`, `postcss`, `tape`, `docker`, `AWS`, `lambCI`
+
+#### Premium Credit - Point of Purchase (PoP)
 
 PoP is a `reactive` `event-driven` web application with a [Flux](https://facebook.github.io/flux/docs/overview.html) architecture, for creating & managing financed insurance premiums. The application was composed of asynchronous data streams using functional programming paradigms such as pure functions, function composition, higher order functions, immutable state, etc. The application was continuous integration & deployed with GitHub, Travis CI and Docker Cloud.
 
-> `es2015`, `esNext`, `jsx`, `babel`, `RxJs`, `cssnext`, `postcss`, `tape`, `istanbul`, `node`, `docker`, `travis`
+> `ES2015`, `jsx`, `babel`, `RxJs`, `react`, `snabbdom`, `cssnext`, `postcss`, `emzyme`, `tape`, `istanbul`, `node`, `docker`, `docker-cloud`, `travis`
 
-#### CHEP Better Portfolio
+#### CHEP - Better Portfolio
 
 [myCHEP](https://youtu.be/DPBR-l0sYd8) is a suite of mobile-first Backbone/Marionette applications. The project used Bower to manager 3rd party library dependencies (Marionette, Zepto, Lodash, Polyglot). Grunt for automated build processes (bundling modules, compiling SCSS, minification, concatenation, running unit-test, code-coverage, etc) and continuous-integration with Jenkins and Maven.
 
-> `webpack`, `babel` `es2015`, `scss`, `backbone`, `marionette`, `lodash`, `karma`, `jasmine`, `jenkins`, `maven`, `tomcat`
+> `webpack`, `babel` `ES6`, `scss`, `backbone`, `marionette`, `lodash`, `karma`, `jasmine`, `jenkins`, `maven`, `tomcat`
 
-#### The BIO Agency website
+#### The BIO Agency - Website
 
-[thebioagency.com](http://thebioagency.com) is a responsive isomorphic application written in javascript. The stack, [docker-nginx-react](https://github.com/zackferrofields/docker-nginx-react), uses a `node` server with `koa` APIs and an `nginx` proxy, to implement a "micro" cache with HTTP `Cahce-Control`. The content was hosted on a separate upstream in GitHub  as `markdown` and compiled to html.
+[thebioagency.com](http://thebioagency.com) is a responsive isomorphic application written in javascript. The stack, [docker-nginx-react](https://github.com/zackferrofields/docker-nginx-react), uses a `node` server with `koa` APIs and an `nginx` proxy, to implement a "micro" cache with HTTP `Cache-Control`. The content was hosted on a separate upstream in GitHub  as `markdown` and compiled to html.
 
-> `node`, `react`, `jsx`, `es2015`, `babel`, `koa`, `nginx`, `docker`
+> `node`, `react`, `jsx`, `ES2015`, `babel`, `koa`, `nginx`, `docker`
 
-#### Sky Sports Soccer Quiz
+#### Sky Sports - Soccer Quiz
 
 A `node` application using `express` to serve REST APIs for an Android/iPhone app and store data in a `mongo` database. The application was unit-tested with `mocha` (and `chai` BDD assertion) using `sinon` and `superagent`.
 
-> `node`, `espress`, `mongodb`, `mocha`, `sinon`, `superagent`
+> `node`, `express`, `mongodb`, `mocha`, `sinon`, `superagent`
 
 ---
 
 ### Senior Front-End Developer, AIS London – MAY 2013 - FEB 2014.
 
 **Dozenate:**
-An `Android` alarm clock with charity micro-payments. The application was built for Android 4.0+. The proof-of-concept involved building custom UI components including an analogue clock with draggable dials for setting alarms. The app used “Just Test Giving” to send micro-payments to charities via SMS.
+An `Android` alarm clock with charity micro-payments. The application was built for Android 4.0+. The proof-of-concept involved building custom UI components including an analogue clock with draggable dials for setting alarms. The app used “Just Text Giving” to send micro-payments to charities via SMS.
 
 ---
 

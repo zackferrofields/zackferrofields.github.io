@@ -78,5 +78,5 @@ Building mobile applications, with a single source (JavaScript, HTML and CSS) co
 EDUCATION
 --------------
 
-### Southampton Solent University – 2007 - 2010.
-#### Upper Second BSC (Hons) Software Engineering
+## Southampton Solent University – 2007 - 2010.
+### Upper Second BSC (Hons) Software Engineering

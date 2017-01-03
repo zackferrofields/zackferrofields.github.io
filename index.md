@@ -29,7 +29,7 @@ Stage Three, a proof of concept for [Haven](https://www.haven.com/), is a single
 
 PoP is a `reactive` `event-driven` web application with a [Flux](https://facebook.github.io/flux/docs/overview.html) architecture, for creating & managing financed insurance premiums. The application was composed of asynchronous data streams using functional programming paradigms such as pure functions, function composition, higher order functions, immutable state, etc. The application was continuous integration & deployed with GitHub, Travis CI and Docker Cloud.
 
-> `ES2015`, `jsx`, `babel`, `RxJs`, `react`, `snabbdom`, `cssnext`, `postcss`, `emzyme`, `tape`, `istanbul`, `node`, `docker`, `docker-cloud`, `travis`
+> `ES2015`, `jsx`, `babel`, `RxJs`, `react`, `snabbdom`, `cssnext`, `postcss`, `enzyme`, `tape`, `istanbul`, `node`, `docker`, `docker-cloud`, `travis`
 
 #### CHEP - Better Portfolio
 

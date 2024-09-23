@@ -13,7 +13,7 @@ I am a dedicated and innovative engineer with extensive experience building scal
 
 ---
 
-###Senior Software Engineer, LogicMonitor (June 2021 – Present)
+### Senior Software Engineer, LogicMonitor (June 2021 – Present)
 
 **LogicMonitor** - a SaaS-based automated monitoring platform that acquired Dexda
 

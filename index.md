@@ -9,11 +9,28 @@ Zack Ferro-Fields
 [Gists](https://gist.github.com/zackferrofields) |
 [GitPage](http://zackferrofields.github.io)
 
-A passionate software engineer; with experience building applications for multiple environments including web, native, and server. Currently in love with ReasonML and enjoy pursuing interests in functional reactive programming (FRP), automated build process, and keeping up with the latest developments in web technologies.
+I am a dedicated and innovative engineer with extensive experience building scalable applications across web, native, and server environments. I’m passionate about designing efficient, high-performance systems that scale and exploring modern paradigms like functional reactive programming (FRP), microservices, and automated build processes. Committed to continuous self-improvement, I embrace new challenges and learning opportunities to refine my skills and deliver forward-thinking, adaptable solutions.
 
 ---
 
-### Senior Software Engineer, Dexda (February 2017 – present).
+### Senior Software Engineer, LogicMonitor (June 2021 – Present)
+
+**LogicMonitor** - a SaaS-based automated monitoring platform that acquired Dexda
+
+I continued supporting and developing the product built at Dexda, while working on integrations with LogicMonitor’s systems. My role includes the migration to a common component library (MUI) and the implementation of LogicMonitor’s APIs and services to ensure seamless functionality across platforms.
+
+In addition to frontend work, I'm actively involved in backend optimization, where I'm currently developing a Go microservice. This microservice is designed to enhance performance, improve search capabilities, and provide better metrics tracking for the system.
+
+- Maintained and developed the Dexda product, ensuring continuous feature delivery and system optimization
+- Migrated the frontend to MUI for a consistent and scalable design system
+- Integrated LogicMonitor APIs and services into the existing stack, ensuring seamless interoperability
+- Developed a Go microservice to improve search performance and metric tracking within the system
+- Collaborated with cross-functional teams to ensure alignment with business requirements and technology standards
+- Conducted code reviews and contributed to improving team development practices
+
+>  `ReScript`, `React`, `MUI`, `Go`, `Docker`, `Microservices`, `GitHub`, `Elasticsearch`
+
+### Senior Software Engineer, Dexda (February 2017 – June 2021).
 
 **Dexda** - an AI solution to automate technology operations at scale, utilising machine learning applications to detect and predict incidents in connected technology. 
 
@@ -27,7 +44,6 @@ The front-end is a React application written in ReasonML and compiled to JavaScr
 -	Specify coding conventions & automate where possible
 -	Implement & refine the frontend development process for optimised feedback loops
 
-
 > `ReasonML`, `ReScript`, `BuckleScript`, `OCaml`, `React`, `Apollo`, `GraphQL`, `Elasticsearch`, `Plotly`, `VX`, `D3`, `ag-grid`, `Recoil`, `Webpack`, `Docker`, `Jest`, `Travis CI`, `AWS`, `GCP`, `GitHub PR`, `git-flow`, `conventional commits`
 
 ---
@@ -37,18 +53,14 @@ The front-end is a React application written in ReasonML and compiled to JavaScr
 **Haven** - a proof of concept single page web application for bookings that could fit into their current .Net stack, using the latest front-end web technologies and principles.
 > `ES2015`, `React`, `Redux`, `redux-sagas`, `Ramda`, `Babel`, `PostCSS` `cssnext`,  `Enzyme` `Tape`, `Docker`, `AWS`, `LambCI`
 
-
 **Premium Credit** - a web application for creating & managing financed insurance premiums.
 > `Typescript`, `RxJs`, `Istanbul`, `Node`, `Docker`, `docker-cloud`, `Travis CI`
-
 
 **CHEP** - is a suite of mobile-first Backbone/Marionette applications integrated an existing Maven project with  Jenkins.
 > `Webpack`, `Babel` `ES6`, `SCSS`, `Backbone`, `Marionette`, `Lodash`, `Karma`, `Jasmine`, `Jenkins`, `Maven`, `Tomcat`
 
-
 **The BIO agency website** - a responsive isomorphic application written in JavaScript. Hosted on a Node server with an NGINX load balancer. With content stored in GitHub as markdown and compiled to HTML.
 > `Node`, `React`, `JSX`, `ES2015`, `Babel`, `Koa`, `NGINX`, `Docker`
-
 
 **Sky Sports, Soccer Quiz** - A Node/MongoDB application using Express to serve REST APIs for an Android/iPhone 
 > `Node`, `Express`, `MongoDB`, `Mocha`, `Sinon`, `Superagent`

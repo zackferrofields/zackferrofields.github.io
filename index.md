@@ -16,7 +16,7 @@ I am a dedicated and innovative engineer with extensive experience building scal
 
 At LogicMonitor, I have continued to support and enhance the Dexda product while integrating it with LogicMonitor’s systems. One of my primary responsibilities has been setting coding standards and best practices for the wider LogicMonitor team, including the adoption of a unified component library (MUI). I’ve also led the integration of LogicMonitor’s APIs and services to streamline platform functionality. Currently, I’m developing a Go microservice to enhance capabilities and optimise performance for search and analytics using Elasticsearch.
 
-- Maintained and developed the Dexda product, ensuring continuous feature delivery and system optimization
+- Maintained and developed the Dexda product, ensuring continuous feature delivery and system optimisation
 - Migrated the frontend to MUI for a consistent and scalable design system
 - Integrated LogicMonitor APIs and services into the existing stack, ensuring seamless interoperability
 - Developed a Go microservice to improve search performance and metric tracking within the system

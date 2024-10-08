@@ -25,7 +25,7 @@ At LogicMonitor, I have continued to support and enhance the Dexda product while
 
 >  `ReScript`, `React`, `MUI`, `Go`, `Docker`, `Microservices`, `GitHub`, `Elasticsearch`
 
-### Senior Software Engineer, Dexda (February 2017 – June 2021).
+### Software Engineer, Dexda (February 2017 – June 2021).
 
 **Dexda** - an AI solution to automate technology operations at scale, utilising machine learning applications to detect and predict incidents in connected technology. 
 

@@ -1,82 +1,111 @@
-Curriculum Vitae
-===============
+# Zack Ferro-Fields - Software Engineer
 
-Zack Ferro-Fields
------------------
-
-**zackferrofields@gmail.com**  
-
-I am a dedicated and innovative engineer with extensive experience building scalable applications across web, native, and server environments. I’m passionate about designing scalable, high-performance systems and continually exploring modern paradigms such as functional reactive programming (FRP), microservices, and automated build processes to drive efficiency and innovation. Committed to continuous self-improvement, I embrace new challenges and learning opportunities to refine my skills and deliver forward-thinking, adaptable solutions.
+United Kingdom  
+zackferrofields@gmail.com  
+[LinkedIn: zack-ferro-fields-02b688129](https://www.linkedin.com/in/zack-ferro-fields-02b688129)
 
 ---
 
-### Senior Software Engineer, LogicMonitor (June 2021 – Present)
+## Summary
 
-**LogicMonitor** - a SaaS-based automated monitoring platform that acquired Dexda
-
-At LogicMonitor, I have continued to support and enhance the Dexda product while integrating it with LogicMonitor’s systems. One of my primary responsibilities has been setting coding standards and best practices for the wider LogicMonitor team, including the adoption of a unified component library (MUI). I’ve also led the integration of LogicMonitor’s APIs and services to streamline platform functionality. Currently, I’m developing a Go microservice to enhance capabilities and optimise performance for search and analytics using Elasticsearch.
-
-- Maintained and developed the Dexda product, ensuring continuous feature delivery and system optimisation
-- Migrated the frontend to MUI for a consistent and scalable design system
-- Integrated LogicMonitor APIs and services into the existing stack, ensuring seamless interoperability
-- Developed a Go microservice to improve search performance and metric tracking within the system
-- Collaborated with cross-functional teams to ensure alignment with business requirements and technology standards
-- Conducted code reviews and contributed to improving team development practices
-
->  `ReScript`, `React`, `MUI`, `Go`, `Docker`, `Microservices`, `GitHub`, `Elasticsearch`
-
-### Software Engineer, Dexda (February 2017 – June 2021).
-
-**Dexda** - an AI solution to automate technology operations at scale, utilising machine learning applications to detect and predict incidents in connected technology. 
-
-At Dexda, I played a central role in developing the frontend React application written in ReScript. I was responsible for the end-to-end process from source code to deployment, working with continuous integration and delivery pipelines using GitHub PRs and Travis CI.
-
--	Write & test new source code
--	Architect & engineer the frontend stack from source code to deployment
--	Rapidly prototype interfaces & new user experiences with the product owner for A/B testing
--	Track & fix bugs for rapid deployment of patches & hotfixes
--	Evaluate new libraries & software paradigms for solving new & existing problems
--	Specify coding conventions & automate where possible
--	Implement & refine the frontend development process for optimised feedback loops
-
-> `ReasonML`, `ReScript`, `BuckleScript`, `OCaml`, `React`, `Apollo`, `GraphQL`, `Elasticsearch`, `Plotly`, `VX`, `D3`, `ag-grid`, `Recoil`, `Webpack`, `Docker`, `Jest`, `Travis CI`, `AWS`, `GCP`, `GitHub PR`, `git-flow`, `conventional commits`
+Innovative AI-focused engineer who transforms complex ideas into impactful products, while amplifying team success through collaboration, recognition, and inclusion.
 
 ---
 
-### Lead Developer, The BIO Agency (February 2014 – February 2017)
+## Experience
 
-Lead the development of several key projects, integrating modern web technologies and ensuring seamless integration with existing back-end systems.
+### Senior Software Engineer – AI & Frontend Innovation  
+**LogicMonitor**, London  
+*June 2021 – Present*
 
-- **Haven**: A single-page booking application integrated with a .NET stack.
-- **Premium Credit**: Web app for managing financed insurance premiums.
-- **CHEP**: Suite of mobile-first Backbone/Marionette apps integrated with Jenkins and Maven.
-- **BIO Agency Website**: Responsive, isomorphic JavaScript application hosted on Node and NGINX.
-- **Sky Sports, Soccer Quiz**: Node/MongoDB app serving REST APIs for mobile platforms.
-
-> `React`, `Redux`, `Typescript`, `Node`, `Backbone`, `Webpack`, `Docker`, `AWS`, `Jenkins`
-
----
-
-### Senior Front-End Developer, AIS London (May 2013 – February 2014)
-
-- **Dozenate**: an Android alarm clock application with custom UI components and integrated SMS-based micro-payments for charity donations.
+- Lead the Edwin frontend project (formerly Dexda), owning 100% of frontend architecture and delivery for an AI-powered alert correlation platform used by dozens of enterprise customers monitoring thousands of events daily.  
+- Architect and deliver greenfield AI features, enabling predictive incident detection and reducing manual triage time by ~40% for end users.  
+- Champion team success by actively highlighting contributions in demos and retros, driving improvements in peer recognition scores in quarterly engagement surveys.  
+- Orchestrate cross-functional collaboration for PRD refinement, technical scoping, and UX reviews, increasing delivery cadence from biannual to monthly feature rollouts.  
+- Support rapid team expansion by hiring and onboarding 7 new developers, nearly doubling team size; all passed probation and contributed to measurable increases in feature quality and output.  
+- Provide ongoing mentorship and technical guidance to frontend colleagues, fostering skill growth and collaboration that contributed to multiple promotions and improvements in both soft and technical skills.  
+- Pioneer prototypes for emerging AI capabilities (e.g., LLM-assisted incident summaries, automated root cause hints), directly shaping 3+ roadmap features adopted into production.  
+- Align stakeholder expectations, doubling on-time delivery in a rapidly shifting AI innovation cycle.  
+- Foster a flat, cross-functional team environment where skilled professionals collaborate closely, sustaining zero voluntary turnover over multiple years.
 
 ---
 
-### Developer, IMI Mobile (December 2011 – May 2013)
+### Senior Software Engineer  
+**Dexda**, London  
+*February 2017 – June 2021*
 
-- **Barclays Bikes**: iOS/Android app using real-time TFL data.
-- **Affiliate Window**: Ember-based portal for user account management.
-- **Red Bull Racing Spy**: iOS app aggregating social content from multiple feeds.
+- Developed an AI-driven platform automating technology operations at scale, leveraging machine learning to detect and predict incidents across connected systems.  
+- Sole frontend developer for the first year, rewriting the existing Java frontend into a containerised React single-page application (SPA), managing the full development lifecycle, and increasing frontend deployment frequency by 3x for faster feature delivery.  
+- Hired, trained, and mentored a frontend colleague over the following 3 years, fostering skill growth that contributed to multiple promotions.  
+- Architected and engineered a scalable frontend stack with integrated CI/CD pipelines, reducing deployment time from days to hours and minimising manual errors.  
+- Rapidly prototyped interfaces and new user experiences, collaborating closely with the product owner to boost user engagement and shorten feature validation cycles.  
+- Designed frontend interfaces for an advanced incident detection algorithm, enabling end users to reduce alert noise by over 80% and focus on critical incidents.  
+- Diagnosed and resolved bugs promptly, maintaining 90% SLA uptime and cutting patch deployment times significantly.  
+- Introduced new libraries and software paradigms, improving frontend quality and enhancing code maintainability.  
+- Defined coding standards and automated repetitive tasks, increasing team productivity and improving code quality.  
+- Refined frontend development processes to optimise feedback loops and accelerate iteration speed, delivering features faster and more reliably.
 
 ---
 
-### Software Engineer, Grapple Mobile (June 2010 – December 2011)
+### Lead Developer  
+**The BIO Agency**, London  
+*February 2014 – February 2017*
 
-Developed multi-platform mobile apps (iOS, Android, Blackberry) for clients like Microsoft, Pfizer, T-Mobile, and Premier Inn using a shared codebase.
+- Led development of diverse web applications using modern technologies, including single-page booking apps, mobile-first Backbone/Marionette suites, and responsive isomorphic JavaScript sites.  
+- Integrated solutions with backend systems such as .NET, Node.js, and MongoDB, while implementing CI/CD pipelines with Jenkins and Maven.  
+- Delivered high-impact projects like Haven, Premium Credit, CHEP, BIO Agency Website, and Sky Sports Soccer Quiz, enhancing user experience and operational efficiency across platforms.  
+- Refined development workflows by introducing automated testing frameworks and code review processes, bolstering project reliability and knowledge sharing across cross-functional teams.
 
 ---
 
-### Education
+### Senior Front-End Developer  
+**AIS London**, London  
+*May 2013 – February 2014*
 
-**BSc (Hons) Software Engineering**, Upper Second Class, Southampton Solent University (2007 – 2010)
+- Developed Dozenate, an Android alarm clock app with custom UI components and SMS-based micro-payment integration for charity donations.  
+- Designed user-friendly interfaces to boost engagement and donation rates.  
+- Collaborated cross-functionally with backend and mobile teams to ensure seamless payment processing.  
+- Utilised Java, Android SDK, SMS APIs, and Agile workflows to deliver quality features on schedule.
+
+---
+
+### Developer  
+**IMI Mobile**, London  
+*December 2011 – May 2013*
+
+- Developed multiple mobile and web applications, including iOS/Android apps leveraging real-time Transport for London data, a single-page application (SPA) for Affiliate Window user account management, and a social content aggregation app for Red Bull Racing.  
+- Enhanced user engagement and operational efficiency through seamless integration of real-time data and dynamic content feeds.  
+- Technologies used: Objective-C, Java, Ember.js, REST APIs, JSON, Agile methodologies.
+
+---
+
+### Software Engineer  
+**Grapple Mobile**, London  
+*June 2010 – December 2011*
+
+- Developed multi-platform mobile applications (iOS, Android, Blackberry) for high-profile clients including Microsoft, Pfizer, T-Mobile, and Premier Inn, utilising a shared codebase to maximise efficiency and consistency across platforms.  
+- Collaborated closely with clients and internal teams to deliver robust, user-friendly mobile solutions aligned with business goals.  
+- Spearheaded integration of RESTful APIs and third-party SDKs to expand app functionality, enhance user experience, and streamline data synchronisation across multiple client platforms.
+
+---
+
+## Education
+
+**BSc (Hons) Software Engineering**  
+Southampton Solent University | 2007 – 2010
+
+---
+
+## Skills
+
+- **Frontend Development:** React, TypeScript, ReScript, ReasonML, JavaScript, SPA architectures, UI/UX prototyping  
+- **Backend & APIs:** Node.js, RESTful services, Elasticsearch, MongoDB, containerization with Docker, CI/CD pipelines  
+- **AI & Automation:** Experience supporting AI-powered products focused on incident detection, alert correlation, and operational automation  
+- **Testing & Automation:** Jest, automated testing, coding standards enforcement, and build optimisation  
+- **Cloud & Infrastructure:** AWS, GCP, container orchestration, deployment automation  
+- **Team Mentorship:** Guided junior and peer developers, supporting career growth and technical skill development  
+- **Cross-functional Collaboration:** Partnered with product owners, UX designers, and backend teams to deliver high-impact features aligned with business goals  
+- **Agile & Process Improvement:** Championed coding conventions, streamlined workflows, and optimized feedback loops to accelerate delivery and improve quality  
+- **Communication & Stakeholder Management:** Managed expectations and facilitated alignment across technical and non-technical stakeholders  
+- **Team Culture:** Fostered inclusive, collaborative environments that sustain low turnover and high engagement in small, skilled teams
+

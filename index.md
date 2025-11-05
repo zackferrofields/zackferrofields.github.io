@@ -19,7 +19,8 @@ Innovative AI-focused engineer who transforms complex ideas into impactful produ
 *June 2021 – Present*
 
 - Lead the Edwin frontend project (formerly Dexda), owning 100% of frontend architecture and delivery for an AI-powered alert correlation platform used by dozens of enterprise customers monitoring thousands of events daily.  
-- Architect and deliver greenfield AI features, enabling predictive incident detection and reducing manual triage time by ~40% for end users.  
+- Architect and deliver greenfield AI features, enabling predictive incident detection and reducing manual triage time by ~40% for end users.
+- Led the strategic migration from ReScript to TypeScript, enabling easier hiring, improved cross-team collaboration, and long-term maintainability without sacrificing type safety or architectural rigour.
 - Champion team success by actively highlighting contributions in demos and retros, driving improvements in peer recognition.  
 - Orchestrate cross-functional collaboration for PRD refinement, technical scoping, and UX reviews, increasing delivery cadence from biannual to monthly feature rollouts.  
 - Support rapid team expansion by hiring and onboarding 7 new developers, nearly doubling team size; all passed probation and contributed to measurable increases in feature quality and output.  
@@ -108,5 +109,6 @@ Southampton Solent University | 2007 – 2010
 - **Agile & Process Improvement:** Championed coding conventions, streamlined workflows, and optimized feedback loops to accelerate delivery and improve quality  
 - **Communication & Stakeholder Management:** Managed expectations and facilitated alignment across technical and non-technical stakeholders  
 - **Team Culture:** Fostered inclusive, collaborative environments that sustain low turnover and high engagement in small, skilled teams
+
 
 

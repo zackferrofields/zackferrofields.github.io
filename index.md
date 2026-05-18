@@ -19,8 +19,8 @@ Innovative AI-focused engineer who transforms complex ideas into impactful produ
 *February 2026 – Present*
 
 - Shipped two flagship features in Apron's **William AI General Availability launch** (May 13, 2026), driving a **2.7× lift in auto-publish adoption** (85 → 231 companies) and a **5.8× lift in email-search connections** (18 → 104) across 23,000+ eligible Apron companies in week one.
-- Owned the frontend delivery of **Agentic Email Search (Outlook + Table view)** — the surface that connects users' Gmail/Outlook to William AI so it can proactively retrieve missing invoices for unmatched bank-feed transactions, covering OAuth handshake, consent flow, search-and-match UI, attach action, re-auth recovery, and FAQ drawer end-to-end.
-- Shipped the frontend end-to-end for **Teach William — Context Collection**, a brand-new rule-authoring surface where users teach Apron's AI per-supplier, per-category, and per-tax-rate guidance in natural language; **63 companies authored their first AI context rule within three working days of launch**.
+- Owned the frontend delivery of **Agentic Email Search (Outlook + Table view)**, William's email-search capability that proactively retrieves missing invoices for unmatched bank-feed transactions by searching users' Gmail or Outlook inboxes. End-to-end FE: OAuth handshake, consent flow, search-and-match UI, attach action, re-auth recovery, and FAQ drawer.
+- Shipped the frontend end-to-end for **Teach William — Context Collection**, a new rule-authoring tab where users teach William per-supplier, per-category, and per-tax-rate guidance in natural language; **63 companies authored their first AI context rule within three working days of launch**.
 
 ---
 

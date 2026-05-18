@@ -14,9 +14,19 @@ Innovative AI-focused engineer who transforms complex ideas into impactful produ
 
 ## Experience
 
+### Senior Software Engineer  
+**Apron**, London  
+*February 2026 – Present*
+
+- Shipped two flagship features in Apron's **William AI General Availability launch** (May 13, 2026), driving a **2.7× lift in auto-publish adoption** (85 → 231 companies) and a **5.8× lift in email-search connections** (18 → 104) across 23,000+ eligible Apron companies in week one.
+- Owned the frontend delivery of **Agentic Email Search (Outlook + Table view)** — the surface that connects users' Gmail/Outlook to William AI so it can proactively retrieve missing invoices for unmatched bank-feed transactions, covering OAuth handshake, consent flow, search-and-match UI, attach action, re-auth recovery, and FAQ drawer end-to-end.
+- Shipped the frontend end-to-end for **Teach William — Context Collection**, a brand-new rule-authoring surface where users teach Apron's AI per-supplier, per-category, and per-tax-rate guidance in natural language; **63 companies authored their first AI context rule within three working days of launch**.
+
+---
+
 ### Senior Software Engineer – AI & Frontend Innovation  
 **LogicMonitor**, London  
-*June 2021 – Present*
+*June 2021 – January 2026*
 
 - Lead the Edwin frontend project (formerly Dexda), owning 100% of frontend architecture and delivery for an AI-powered alert correlation platform used by dozens of enterprise customers monitoring thousands of events daily.  
 - Architect and deliver greenfield AI features, enabling predictive incident detection and reducing manual triage time by ~40% for end users.

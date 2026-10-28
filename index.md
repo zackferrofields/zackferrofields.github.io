@@ -18,6 +18,8 @@ Innovative AI-focused engineer who transforms complex ideas into impactful produ
 **Apron**, London  
 *February 2026 – Present*
 
+Senior Software Engineer at Apron, on the Capture team. My focus is the frontend of William AI — Apron's AI bookkeeping agent that captures, extracts, categorises and autonomously publishes documents to customers' accounting software, saving accountants and bookkeepers hours of manual data entry at scale.
+
 - Shipped two flagship features in Apron's **William AI General Availability launch** (May 13, 2026), driving a **2.7× lift in auto-publish adoption** (85 → 231 companies) and a **5.8× lift in email-search connections** (18 → 104) across 23,000+ eligible Apron companies in week one.
 - Owned the frontend delivery of **Agentic Email Search (Outlook + Table view)**, William's email-search capability that proactively retrieves missing invoices for unmatched bank-feed transactions by searching users' Gmail or Outlook inboxes.
 - Shipped the frontend end-to-end for **Teach William — Context Collection**, a new rule-authoring tab where users teach William per-supplier, per-category, and per-tax-rate guidance in natural language; **63 companies authored their first AI context rule within three working days of launch**.

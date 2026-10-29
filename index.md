@@ -8,7 +8,7 @@ zackferrofields@gmail.com
 
 ## Summary
 
-Innovative AI-focused engineer who transforms complex ideas into impactful products, while amplifying team success through collaboration, recognition, and inclusion.
+Senior Frontend Engineer with deep experience building React and TypeScript single-page applications, design systems, and complex workflows for enterprise B2B SaaS platforms.
 
 ---
 
